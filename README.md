@@ -1,6 +1,6 @@
 # Hi, I’m Tristan Mollet 👋
 
-**Solution Architect** · 7+ years · Banking Tech · Brussels, Belgium
+**Solution Architect** · 8+ years · Banking Tech · Brussels, Belgium
 
 > *“What drives me is building tools that make developers’ lives better — through clean architecture, knowledge sharing, and the relentless pursuit of the right solution.”*
 
