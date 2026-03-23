@@ -8,7 +8,7 @@
 
 ## 🏗️ What I do
 
-With 7+ years of experience designing IT solutions for the banking sector, I’ve worked across the full architecture spectrum — from low-level security libraries to enterprise-scale NextGen banking platforms.
+With 8+ years of experience designing IT solutions for the banking sector, I’ve worked across the full architecture spectrum — from low-level security libraries to enterprise-scale NextGen banking platforms.
 
 - 🔐 **Security & Auth** — Designed OAuth2/OIDC libraries integrating seamlessly into existing banking systems
 - 🧩 **Microservices frameworks** — Co-built a Kotlin reference framework for backend microservices
